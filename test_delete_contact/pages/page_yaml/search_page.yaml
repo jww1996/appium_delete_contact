@@ -1,0 +1,5 @@
+search_member:
+  - by: xpath
+    locator: //*[@text='搜索']
+    action: find_sendkeys
+    value: ${name}

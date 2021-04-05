@@ -1,0 +1,2 @@
+[32mINFO    [0m test_delete_contact.conftest:basepage.py:37 find: by=xpath, locator = //*[@text='日程']
+[32mINFO    [0m test_delete_contact.conftest:basepage.py:37 find: by=xpath, locator = //*[@text='通讯录']

@@ -1,0 +1,4 @@
+goto_searchpage:
+  - by: xpath
+    locator: //*[@resource-id='com.tencent.wework:id/guu']
+    action: find_click

@@ -1,0 +1,8 @@
+goto_deletecontact:
+  - by: xpath
+    locator: //*[@resource-id='com.tencent.wework:id/duq']
+    action: find_click
+
+  - by: xpath
+    locator: //*[@text='确定']
+    action: find_click
